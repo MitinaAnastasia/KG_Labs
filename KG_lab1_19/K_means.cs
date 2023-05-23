@@ -24,7 +24,7 @@ namespace KG_lab1_19
                         var r = Math.Abs(bitmap.GetPixel(x, y).R - bitmap.GetPixel(center[i].X, center[i].Y).R);
                         var g = Math.Abs(bitmap.GetPixel(x, y).G - bitmap.GetPixel(center[i].X, center[i].Y).G);
                         var b = Math.Abs(bitmap.GetPixel(x, y).B - bitmap.GetPixel(center[i].X, center[i].Y).B);
-                        dist[i] = (int)(Math.Sqrt(r * r + g * g) + Math.Sqrt(g * g + b * b) + Math.Sqrt(r * r + b * b));
+                        dist[i] = (int)(Math.Sqrt(r * r + g * g + b * b));
                     }
                     int nearInd = MinDistance(dist, count);
                     var cnrColor = bitmap.GetPixel(center[nearInd].X, center[nearInd].Y);
