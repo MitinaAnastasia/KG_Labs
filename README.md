@@ -11,8 +11,9 @@
 
 k = 2:
 
-![2](https://github.com/SysuevaAnastasia/KG_Labs/assets/101638603/da23a161-7382-4a18-8937-8928285f16ce)
+![2](https://github.com/SysuevaAnastasia/KG_Labs/assets/101638603/0c7a6816-5fd8-461f-9563-40b916914629)
 
 k = 20:
 
-![20](https://github.com/SysuevaAnastasia/KG_Labs/assets/101638603/469328ee-e127-4cec-b108-bb72069831df)
+![20](https://github.com/SysuevaAnastasia/KG_Labs/assets/101638603/c23622df-c5fa-48c6-9395-168bdd76c00f)
+
