@@ -47,7 +47,7 @@ namespace KG_lab3_gada
             Gl.glColor3f(1, 1, 1);
 
             Gl.glPushMatrix();
-            Gl.glTranslated(0, -1, -6);
+            Gl.glTranslated(0, 0, -2);
             Gl.glRotated((x - pan.Height) * 180 / pan.Height, 0, 1, 0);
             Gl.glRotated((y - pan.Width) * 180 / pan.Width, 1, 0, 0);
             Glut.glutSolidTeapot(_size);
