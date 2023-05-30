@@ -28,7 +28,7 @@ namespace KG_lab3_gada
             Gl.glViewport(0, 0, pan.Width, pan.Height);
             Gl.glMatrixMode(Gl.GL_PROJECTION);
             Gl.glLoadIdentity();
-            const double W = 10;
+            const double W = 15;
             double H = W * pan.Height / pan.Width;
             Gl.glOrtho(-W, W, -H, H, -300, 300);
             Gl.glMatrixMode(Gl.GL_MODELVIEW);
