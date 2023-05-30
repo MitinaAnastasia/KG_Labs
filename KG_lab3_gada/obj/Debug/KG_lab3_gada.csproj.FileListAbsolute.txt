@@ -1,0 +1,17 @@
+C:\Users\username\source\repos\KG_lab3_gada\bin\Debug\KG_lab3_gada.exe.config
+C:\Users\username\source\repos\KG_lab3_gada\bin\Debug\KG_lab3_gada.exe
+C:\Users\username\source\repos\KG_lab3_gada\bin\Debug\KG_lab3_gada.pdb
+C:\Users\username\source\repos\KG_lab3_gada\bin\Debug\Tao.FreeGlut.dll
+C:\Users\username\source\repos\KG_lab3_gada\bin\Debug\Tao.OpenGl.dll
+C:\Users\username\source\repos\KG_lab3_gada\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\username\source\repos\KG_lab3_gada\bin\Debug\Tao.FreeGlut.xml
+C:\Users\username\source\repos\KG_lab3_gada\bin\Debug\Tao.OpenGl.xml
+C:\Users\username\source\repos\KG_lab3_gada\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\username\source\repos\KG_lab3_gada\obj\Debug\KG_lab3_gada.csprojAssemblyReference.cache
+C:\Users\username\source\repos\KG_lab3_gada\obj\Debug\KG_lab3_gada.Form1.resources
+C:\Users\username\source\repos\KG_lab3_gada\obj\Debug\KG_lab3_gada.Properties.Resources.resources
+C:\Users\username\source\repos\KG_lab3_gada\obj\Debug\KG_lab3_gada.csproj.GenerateResource.cache
+C:\Users\username\source\repos\KG_lab3_gada\obj\Debug\KG_lab3_gada.csproj.CoreCompileInputs.cache
+C:\Users\username\source\repos\KG_lab3_gada\obj\Debug\KG_lab3_gada.csproj.CopyComplete
+C:\Users\username\source\repos\KG_lab3_gada\obj\Debug\KG_lab3_gada.exe
+C:\Users\username\source\repos\KG_lab3_gada\obj\Debug\KG_lab3_gada.pdb
