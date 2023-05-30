@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KG_lab2_gcb/1.0.0": {
+        "runtime": {
+          "KG_lab2_gcb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KG_lab2_gcb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
