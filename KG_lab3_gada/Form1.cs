@@ -3,12 +3,13 @@ using System.Windows.Forms;
 using Tao.OpenGl;
 using Tao.FreeGlut;
 using System.Drawing;
+using System.Collections.Generic;
 
 namespace KG_lab3_gada
 {
     public partial class Form1 : Form
     {
-        double _size = 10.0;
+        float h = (float)0.1;
         public Form1()
         {
             InitializeComponent();
@@ -17,7 +18,7 @@ namespace KG_lab3_gada
 
         float func(float x, float y)
         {
-            return (float)(x*x - y*y);
+            return x*x - 2*y*y;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -28,9 +29,9 @@ namespace KG_lab3_gada
             Gl.glViewport(0, 0, pan.Width, pan.Height);
             Gl.glMatrixMode(Gl.GL_PROJECTION);
             Gl.glLoadIdentity();
-            const double W = 15;
+            const double W = 10;
             double H = W * pan.Height / pan.Width;
-            Gl.glOrtho(-W, W, -H, H, -300, 300);
+            Gl.glOrtho(-W, W, -H, H, -200, 200);
             Gl.glMatrixMode(Gl.GL_MODELVIEW);
             Gl.glLoadIdentity();
             Gl.glEnable(Gl.GL_DEPTH_TEST);
@@ -47,10 +48,34 @@ namespace KG_lab3_gada
             Gl.glColor3f(1, 1, 1);
 
             Gl.glPushMatrix();
-            Gl.glTranslated(0, 0, -2);
+            Gl.glTranslated(0, -1, -6);
             Gl.glRotated((x - pan.Height) * 180 / pan.Height, 0, 1, 0);
             Gl.glRotated((y - pan.Width) * 180 / pan.Width, 1, 0, 0);
-            Glut.glutSolidTeapot(_size);
+
+            Gl.glBegin(Gl.GL_TRIANGLES);
+            for (float i = -2; i <= 2; i += h)
+            {
+                for (float j = -2; j <= 2; j += h)
+                {
+                    Gl.glVertex3d(i, j, func(i, j));
+                    Gl.glVertex3d(i, j + 1, func(i, j + 1));
+                    Gl.glVertex3d(i + 1, j + 1, func(i + 1, j + 1));
+                }
+            }
+
+            Gl.glEnd();
+            Gl.glBegin(Gl.GL_TRIANGLES);
+            for (float i = -2; i <= 2; i += h)
+            {
+                for (float j = -2; j <= 2; j += h)
+                {
+                    Gl.glVertex3d(i, j, func(i, j));
+                    Gl.glVertex3d(i + 1, j, func(i + 1, j));
+                    Gl.glVertex3d(i + 1, j + 1, func(i + 1, j + 1));
+                }
+            }
+            Gl.glEnd();
+
             Gl.glPopMatrix();
             Gl.glFlush();
             pan.Invalidate();
@@ -96,11 +121,6 @@ namespace KG_lab3_gada
         private void pan_MouseMove(object sender, MouseEventArgs e)
         {
             Render(e.X, e.Y);
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            _size = Convert.ToDouble(size.Text);
         }
     }
 }
