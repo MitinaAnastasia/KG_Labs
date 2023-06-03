@@ -1,0 +1,30 @@
+C:\Users\Lenovo1\source\repos\ComputerGraphics\SecondLab\SecondLab\bin\Debug\SecondLab.exe.config
+C:\Users\Lenovo1\source\repos\ComputerGraphics\SecondLab\SecondLab\bin\Debug\SecondLab.exe
+C:\Users\Lenovo1\source\repos\ComputerGraphics\SecondLab\SecondLab\bin\Debug\SecondLab.pdb
+C:\Users\Lenovo1\source\repos\ComputerGraphics\SecondLab\SecondLab\obj\Debug\SecondLab.csprojAssemblyReference.cache
+C:\Users\Lenovo1\source\repos\ComputerGraphics\SecondLab\SecondLab\obj\Debug\SecondLab.MainForm.resources
+C:\Users\Lenovo1\source\repos\ComputerGraphics\SecondLab\SecondLab\obj\Debug\SecondLab.Properties.Resources.resources
+C:\Users\Lenovo1\source\repos\ComputerGraphics\SecondLab\SecondLab\obj\Debug\SecondLab.csproj.GenerateResource.cache
+C:\Users\Lenovo1\source\repos\ComputerGraphics\SecondLab\SecondLab\obj\Debug\SecondLab.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo1\source\repos\ComputerGraphics\SecondLab\SecondLab\obj\Debug\SecondLab.exe
+C:\Users\Lenovo1\source\repos\ComputerGraphics\SecondLab\SecondLab\obj\Debug\SecondLab.pdb
+C:\Users\Hawke\Desktop\Лабы по кг\SecondLab\SecondLab\bin\Debug\SecondLab.exe.config
+C:\Users\Hawke\Desktop\Лабы по кг\SecondLab\SecondLab\bin\Debug\SecondLab.exe
+C:\Users\Hawke\Desktop\Лабы по кг\SecondLab\SecondLab\bin\Debug\SecondLab.pdb
+C:\Users\Hawke\Desktop\Лабы по кг\SecondLab\SecondLab\obj\Debug\SecondLab.csproj.AssemblyReference.cache
+C:\Users\Hawke\Desktop\Лабы по кг\SecondLab\SecondLab\obj\Debug\SecondLab.MainForm.resources
+C:\Users\Hawke\Desktop\Лабы по кг\SecondLab\SecondLab\obj\Debug\SecondLab.Properties.Resources.resources
+C:\Users\Hawke\Desktop\Лабы по кг\SecondLab\SecondLab\obj\Debug\SecondLab.csproj.GenerateResource.cache
+C:\Users\Hawke\Desktop\Лабы по кг\SecondLab\SecondLab\obj\Debug\SecondLab.csproj.CoreCompileInputs.cache
+C:\Users\Hawke\Desktop\Лабы по кг\SecondLab\SecondLab\obj\Debug\SecondLab.exe
+C:\Users\Hawke\Desktop\Лабы по кг\SecondLab\SecondLab\obj\Debug\SecondLab.pdb
+C:\Users\username\Desktop\SecondLab\SecondLab\bin\Debug\SecondLab.exe.config
+C:\Users\username\Desktop\SecondLab\SecondLab\bin\Debug\SecondLab.exe
+C:\Users\username\Desktop\SecondLab\SecondLab\bin\Debug\SecondLab.pdb
+C:\Users\username\Desktop\SecondLab\SecondLab\obj\Debug\SecondLab.csprojAssemblyReference.cache
+C:\Users\username\Desktop\SecondLab\SecondLab\obj\Debug\SecondLab.MainForm.resources
+C:\Users\username\Desktop\SecondLab\SecondLab\obj\Debug\SecondLab.Properties.Resources.resources
+C:\Users\username\Desktop\SecondLab\SecondLab\obj\Debug\SecondLab.csproj.GenerateResource.cache
+C:\Users\username\Desktop\SecondLab\SecondLab\obj\Debug\SecondLab.csproj.CoreCompileInputs.cache
+C:\Users\username\Desktop\SecondLab\SecondLab\obj\Debug\SecondLab.exe
+C:\Users\username\Desktop\SecondLab\SecondLab\obj\Debug\SecondLab.pdb
